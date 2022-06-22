@@ -1,1 +1,1 @@
-# django-project-crud
+# django-crud
